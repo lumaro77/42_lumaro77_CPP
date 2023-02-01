@@ -1,6 +1,8 @@
 # 42_lumaro_CPP
 
-CPP 42 "PISCINE" (Now 42 Common Core Rank 4 modules)
+Lo mejor que se puede compartir es el conocimiento (Alain Ducasse)
+
+## CPP 42 "PISCINE" (Now 42 Common Core Rank 4 modules) summary
 
 - CPP_00 This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming!
  
@@ -19,3 +21,4 @@ CPP 42 "PISCINE" (Now 42 Common Core Rank 4 modules)
 - CPP_07 This module is designed to help you understand Templates in CPP.
 
 - CPP_08 This module is designed to help you understand templated containers, iterators and algorithms in CPP.
+
